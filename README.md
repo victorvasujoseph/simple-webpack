@@ -12,3 +12,6 @@ npm i -D extract-text-webpack-plugin@next
 Error:
 (node:7800) DeprecationWarning: Tapable.plugin is deprecated. Use new API on `.hooks` instead
 /Users/victorjoseph/workspace/playground/simple-webpack/node_modules/webpack/lib/Chunk.js:846
+
+https://victorvasujoseph.github.io/simple-webpack/
+
