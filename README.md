@@ -1,6 +1,6 @@
 #simple-webpack
 
-Simple Application that uses webapcks to build multiple js files
+Application that uses webapcks to build multiple js files
 
 npm run build
 npm start
