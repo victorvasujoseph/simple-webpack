@@ -14,4 +14,4 @@ Error:
 /Users/victorjoseph/workspace/playground/simple-webpack/node_modules/webpack/lib/Chunk.js:846
 
 https://victorvasujoseph.github.io/simple-webpack/
-
+https://hackernoon.com/webpack-the-basics-2712a7ad640b
